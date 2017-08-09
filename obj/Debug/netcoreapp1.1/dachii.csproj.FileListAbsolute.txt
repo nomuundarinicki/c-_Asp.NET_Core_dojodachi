@@ -1,0 +1,8 @@
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/dachii/dachii/bin/Debug/netcoreapp1.1/dachii.deps.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/dachii/dachii/bin/Debug/netcoreapp1.1/dachii.runtimeconfig.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/dachii/dachii/bin/Debug/netcoreapp1.1/dachii.runtimeconfig.dev.json
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/dachii/dachii/bin/Debug/netcoreapp1.1/dachii.dll
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/dachii/dachii/bin/Debug/netcoreapp1.1/dachii.pdb
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/dachii/dachii/obj/Debug/netcoreapp1.1/dachii.AssemblyInfo.cs
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/dachii/dachii/obj/Debug/netcoreapp1.1/dachii.dll
+/Users/nickchimedbavuu/Desktop/C#/NETCORE/dachii/dachii/obj/Debug/netcoreapp1.1/dachii.pdb
